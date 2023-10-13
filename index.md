@@ -1,4 +1,4 @@
 ---
-title: Certreq: The blog
+title: Certreq - The blog
 ---
 
