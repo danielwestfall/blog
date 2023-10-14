@@ -1,1 +1,10 @@
 theme: minima
+title: "CERTREQ blog"
+tagline: "CERTREQ the quest for certificates"
+author: "Daniel Westfall"
+description: "Daniel Westfall's documented journey to the CPACC and WAS certificates"
+language: en
+
+footer_links:
+  - text: "Home"
+    url: "https://certreq.dev/"
