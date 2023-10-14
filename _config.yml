@@ -8,7 +8,7 @@ language: en
 footer_links:
   - text: "CERTREQ Home"
     url: "https://certreq.dev/"
-  - text: "CERTREQ Link 1"
-    url: "https://certreq.dev/"
+  - text: "CERTREQ Blog"
+    url: "https://certreq.dev/blog/"
   - text: "CERTREQ Link 2"
     url: "https://certreq.dev/"
