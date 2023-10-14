@@ -6,5 +6,9 @@ description: "Daniel Westfall's documented journey to the CPACC and WAS certific
 language: en
 
 footer_links:
-  - text: "Home"
+  - text: "CERTREQ Home"
+    url: "https://certreq.dev/"
+  - text: "CERTREQ Link 1"
+    url: "https://certreq.dev/"
+  - text: "CERTREQ Link 2"
     url: "https://certreq.dev/"
