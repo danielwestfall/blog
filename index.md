@@ -1,9 +1,9 @@
 ---
 title: Certreq - Embarking on a Journey to Improve My Accessibility Skills with CPACC
 ---
-
-![alt text](https://certreq.dev/blog/images/certificate-svgrepo-com.svg "Certificate Icon")
-
+<p align="center">
+<img src='https://certreq.dev/blog/images/certificate-svgrepo-com.svg' width='100' alt="Certificate Icon">
+</p>
 In today's digital age, accessibility has become a paramount concern. As we strive to create a more inclusive digital environment, understanding and implementing accessibility standards and practices has never been more important. My journey towards enhancing my accessibility skills has recently begun with a significant step - studying for the Certified Professional in Accessibility Core Competencies (CPACC) certification. I am thrilled to share my experiences, challenges, and learnings as I embark on this journey, and I'll be updating you throughout the process.
 
 ### The Importance of Accessibility
